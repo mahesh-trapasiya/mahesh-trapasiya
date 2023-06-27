@@ -36,6 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh-trapasiya&show_icons=true&locale=en&layout=compact&theme=dracula&hide=stars,issues" alt="mahesh-trapasiya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh-trapasiya&show_icons=true&locale=en" alt="mahesh-trapasiya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh-trapasiya&show_icons=true&locale=en&theme=dracula&hide=stars,issues" alt="mahesh-trapasiya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-trapasiya&" alt="mahesh-trapasiya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-trapasiya&theme=dracula&hide=stars,issues" alt="mahesh-trapasiya" /></p>
