@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh-trapasiya&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh-trapasiya" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=mahesh-trapasiya&theme=onedark&row=2&column=3&margin-w=15&margin-h=15"><img src="https://github-profile-trophy.vercel.app/?username=mahesh-trapasiya&theme=onedark&row=2&column=3&margin-w=15&margin-h=15" alt="mahesh-trapasiya" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=mahesh-trapasiya&theme=onedark&row=2&column=3&margin-w=15&margin-h=15&no-bg=true"><img src="https://github-profile-trophy.vercel.app/?username=mahesh-trapasiya&theme=onedark&row=2&column=3&margin-w=15&margin-h=15&no-bg=true" alt="mahesh-trapasiya" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
