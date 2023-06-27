@@ -34,7 +34,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh-trapasiya&show_icons=true&locale=en&layout=compact" alt="mahesh-trapasiya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh-trapasiya&show_icons=true&locale=en&layout=compact&theme=dracula&hide=stars,issues" alt="mahesh-trapasiya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh-trapasiya&show_icons=true&locale=en" alt="mahesh-trapasiya" /></p>
 
