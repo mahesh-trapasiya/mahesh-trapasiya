@@ -33,13 +33,6 @@ I'm a Full-Stack Developer based in India, passionate about clean code and effic
 </p>
 
 ---
-
-### 📫 Let's Connect
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 [Email](mailto:your.email@example.com)
-- 🌐 [Portfolio](YOUR_PORTFOLIO_URL)
-
----
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
