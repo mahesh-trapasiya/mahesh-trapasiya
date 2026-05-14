@@ -116,12 +116,12 @@ const mahesh = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MaheshTrapasiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshTrapasiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=MaheshTrapasiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" />
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MaheshTrapasiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshTrapasiya&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" />
+<img width="98%" src="https://streak-stats.demolab.com/?user=MaheshTrapasiya&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" />
 
 <br/><br/>
 
